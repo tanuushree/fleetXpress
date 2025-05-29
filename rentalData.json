@@ -1,0 +1,28 @@
+{
+  "RentalData": [
+    {
+      "vehicleType": "Sports",
+      "perDayRent": 7000,
+      "perKmRent": 30,
+      "kmLimitPerDay" : 200
+    },
+    {
+      "vehicleType": "Sedan",
+      "perDayRent": 6000,
+      "perKmRent": 25,
+      "kmLimitPerDay" : 200
+    },
+    {
+      "vehicleType": "Hatchback",
+      "perDayRent": 5000,
+      "perKmRent": 23,
+      "kmLimitPerDay" : 200
+    },
+    {
+      "vehicleType": "Coupe",
+      "perDayRent": 4500,
+      "perKmRent": 20,
+      "kmLimitPerDay" : 200
+    }
+  ]
+}

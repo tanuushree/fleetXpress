@@ -1,0 +1,44 @@
+{
+  "Users": [
+    {
+      "loginname": "kara",
+      "pwSHA256ChkSum": "817b3cb2c8034383fc53fdfc5d0756563e631341bdfa262f1c4a08f8550e8516",
+      "role": "user"
+    },
+    {
+      "loginname": "koram",
+      "pwSHA256ChkSum": "de1e87f9ec59cd3e1951f22b1a7c1b1b2aab1b2c391c7381fcb7a206dcbfa80c",
+      "role": "admin"
+    },
+    {
+      "loginname": "shiva",
+      "pwSHA256ChkSum": "817b3cb2c8034383fc53fdfc5d0756563e631341bdfa262f1c4a08f8550e8516",
+      "role": "user"
+    },
+    {
+      "loginname": "lik",
+      "pwSHA256ChkSum": "de1e87f9ec59cd3e1951f22b1a7c1b1b2aab1b2c391c7381fcb7a206dcbfa80c",
+      "role": "admin"
+    },
+    {
+      "loginname": "arya",
+      "pwSHA256ChkSum": "817b3cb2c8034383fc53fdfc5d0756563e631341bdfa262f1c4a08f8550e8516",
+      "role": "user"
+    },
+    {
+      "loginname": "bhatta",
+      "pwSHA256ChkSum": "de1e87f9ec59cd3e1951f22b1a7c1b1b2aab1b2c391c7381fcb7a206dcbfa80c",
+      "role": "admin"
+    },
+    {
+      "loginname": "kanchen",
+      "pwSHA256ChkSum": "817b3cb2c8034383fc53fdfc5d0756563e631341bdfa262f1c4a08f8550e8516",
+      "role": "user"
+    },
+    {
+      "loginname": "junga",
+      "pwSHA256ChkSum": "de1e87f9ec59cd3e1951f22b1a7c1b1b2aab1b2c391c7381fcb7a206dcbfa80c",
+      "role": "admin"
+    }
+  ]
+}

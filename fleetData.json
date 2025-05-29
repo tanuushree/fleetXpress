@@ -1,0 +1,20 @@
+{
+	"VehicleData": [
+			{ "VID" : "954e0084", "VMfr": "Honda",  "VType": "Sedan",     "VEngine": "Petrol", "VLastOdometerReading": 30, "VStatus": "Available" },
+			{ "VID" : "2dd218ea", "VMfr": "Mazda",  "VType": "Hatchback", "VEngine": "Petrol", "VLastOdometerReading": 30, "VStatus": "Available" },
+			{ "VID" : "3604d9f6", "VMfr": "Toyota", "VType": "Sedan",     "VEngine": "Diesel", "VLastOdometerReading": 15, "VStatus": "Available" },
+			{ "VID" : "d0f7b8b0", "VMfr": "Tata",   "VType": "Coupe",     "VEngine": "Petrol", "VLastOdometerReading": 10, "VStatus": "Available" },
+			{ "VID" : "959d3917", "VMfr": "Honda",  "VType": "Sedan",     "VEngine": "Petrol", "VLastOdometerReading": 30, "VStatus": "Available" },
+			{ "VID" : "1b867d76", "VMfr": "Mazda",  "VType": "Hatchback", "VEngine": "Petrol", "VLastOdometerReading": 30, "VStatus": "Available" },
+			{ "VID" : "1fd8d3d4", "VMfr": "Mazda",  "VType": "Sedan",     "VEngine": "Petrol", "VLastOdometerReading": 15, "VStatus": "Available" },
+			{ "VID" : "7caba4d9", "VMfr": "Tata",   "VType": "Coupe",     "VEngine": "Diesel", "VLastOdometerReading": 10, "VStatus": "Available" },
+			{ "VID" : "cf6dbcc6", "VMfr": "Honda",  "VType": "Sports",    "VEngine": "Diesel", "VLastOdometerReading": 30, "VStatus": "Available" },
+			{ "VID" : "99b8c058", "VMfr": "Mazda",  "VType": "Hatchback", "VEngine": "Petrol", "VLastOdometerReading": 30, "VStatus": "Available" },
+			{ "VID" : "5c500b88", "VMfr": "Toyota", "VType": "Sedan",     "VEngine": "Diesel", "VLastOdometerReading": 15, "VStatus": "Available" },
+			{ "VID" : "ef7d62b0", "VMfr": "Tata",   "VType": "Coupe",     "VEngine": "Petrol", "VLastOdometerReading": 10, "VStatus": "Available" },
+			{ "VID" : "b37112c5", "VMfr": "Tata",   "VType": "Sports",    "VEngine": "Diesel", "VLastOdometerReading": 30, "VStatus": "Available" },
+			{ "VID" : "a59994cf", "VMfr": "Mazda",  "VType": "Hatchback", "VEngine": "Petrol", "VLastOdometerReading": 30, "VStatus": "Available" },
+			{ "VID" : "412709e1", "VMfr": "Mazda",  "VType": "Sedan",     "VEngine": "Petrol", "VLastOdometerReading": 15, "VStatus": "Available" },
+			{ "VID" : "19c3f876", "VMfr": "Tata",   "VType": "Sports",    "VEngine": "Petrol", "VLastOdometerReading": 10, "VStatus": "Available" }
+		]
+}

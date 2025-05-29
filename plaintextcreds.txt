@@ -1,0 +1,10 @@
+login	 Password	Role
+-------------------------------
+kara	 Trajenta500!	user
+koram 	 Volix250!	admin
+shiva 	 Trajenta500!	user
+lik 	 Volix250!	admin
+arya 	 Trajenta500!	user
+bhatta 	 Volix250!	admin
+kanchen  Trajenta500!	user
+junga 	 Volix250!	admin
